@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Allan Reis, a Back-End C# .NET Developer.<br>I'm focused on the C# .NET ecosystem and currently deepening my knowledge of Object-Oriented Programming (OOP), RESTful APIs, software architecture, and databases.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento back-end utilizando C# e .NET. Concluí cursos de Programação Orientada a Objetos com C# e de criação de APIs REST com ASP.NET Core, desenvolvendo habilidades práticas em encapsulamento, herança, versionamento com Git, e estruturação de APIs modernas. Tenho me dedicado a projetos pessoais e acadêmicos com Visual Studio, sempre priorizando boas práticas, organização de código, e integração com banco de dados. Busco oportunidades na área para aplicar e expandir meus conhecimentos</p>
 
 ###
 
